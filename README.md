@@ -1,5 +1,14 @@
 # 🚴‍♂️ Global-Bike-Sales-Dataset-2025
 
+![Tool](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-%2390ee90?style=flat-square)        <!-- Light Green -->
+![Skill](https://img.shields.io/badge/Skill-PivotTables%20%26%20Charts-%2300d8ff?style=flat-square)      <!-- Neon Blue -->
+![Focus](https://img.shields.io/badge/Focus-Data%20Cleaning%20%7C%20EDA-%23ff9500?style=flat-square)      <!-- Bright Orange -->
+![Dashboard](https://img.shields.io/badge/Focus-Dashboard-%23ff5400?style=flat-square)                     <!-- Neon Orange-Red -->
+![Data](https://img.shields.io/badge/Data-Business%20Data-%239d00ff?style=flat-square)                    <!-- Neon Purple -->
+![Status](https://img.shields.io/badge/Status-Completed-%2300ff00?style=flat-square)                      <!-- Bright Neon Green -->
+
+---
+
 ## 📑 Project Summary
 In this project, I analyzed a company's bike sales dataset by cleaning the data in Excel, building pivot tables to uncover key insights, and designing an interactive dashboard that visualizes sales performance and customer trends using those pivot tables. This Harvard-level portfolio project transforms raw customer data from a major bicycle retailer into actionable business intelligence. Through rigorous data cleaning, advanced PivotTables, and an interactive dashboard, this project uncovers deep insights about customer demographics and sales patterns to drive informed business decisions.
 
